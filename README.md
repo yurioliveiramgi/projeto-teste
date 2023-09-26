@@ -1,2 +1,2 @@
 # projeto-teste
-tutoria_teste
+tutorial_teste
