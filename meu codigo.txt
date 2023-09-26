@@ -4,3 +4,4 @@ Fazendo novos testes
 Novas linhas
 novos comandos
 
+Teste de via paralela
